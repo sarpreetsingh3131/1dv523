@@ -1,0 +1,28 @@
+body {
+    background-image: url(../image/background.jpg);
+    background-size: cover;
+}
+
+.ui.menu { 
+    background: transparent; 
+}
+
+.ui.modal {
+    top: 20%;
+}
+
+.error {
+    color: red
+}
+
+.ui.card {
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-left: 25%;
+    background: transparent;
+}
+
+.not-found{
+    text-align: center;
+    margin-top: 20%;
+}
