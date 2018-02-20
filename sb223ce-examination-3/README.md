@@ -1,5 +1,5 @@
 # sb223ce-examination-3
-Examination assignment 3 for Buttar Sarpreet Singh, WP2017. The app is running at https://146.185.163.226/
+Examination assignment 3 for Buttar Sarpreet Singh, WP2017. The app is running at http://46.101.182.239/github/
 
 ## Installation Process
 Following are the steps that I have taken to set up the production environment:
